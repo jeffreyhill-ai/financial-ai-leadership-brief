@@ -38,4 +38,5 @@ This repo is intended to support follow-up for senior roles where AI strategy, p
 
 ## Use / Reuse
 
-Content is shared for discussion, portfolio, and professional context. No license is granted for commercial reuse, redistribution, or derivative use without permission.
+
+Content is licensed under [CC BY-NC 4.0](LICENSE): you may share and adapt it for noncommercial purposes with attribution. Commercial use requires permission.
